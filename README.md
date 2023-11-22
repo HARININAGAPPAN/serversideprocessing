@@ -157,11 +157,13 @@ urlpatterns = [
 ```
 ### Output
 
-![Alt text](screenshot.jpeg)
+![screenshot](https://github.com/HARININAGAPPAN/serversideprocessing/assets/147473910/b2937bef-a976-4902-8afd-44783dcf65b2)
+
 
 
 ### Home Page:
-![Alt text](<Screenshot from 2023-11-07 17-33-18.png>)
+![Screenshot from 2023-11-07 17-33-18](https://github.com/HARININAGAPPAN/serversideprocessing/assets/147473910/14978a89-5050-468a-a5a4-d3f3b6b7436c)
+
 
 
 ## Result:
